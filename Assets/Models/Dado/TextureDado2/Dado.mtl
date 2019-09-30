@@ -1,0 +1,31 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.193236683)
+
+newmtl BaseCube
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl Right
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl Front
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl Left
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl Back
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl Top
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl Bottom
+kd 0.8 0.8 0.8
+illum 1
+
