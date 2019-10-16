@@ -3,7 +3,32 @@ guid: 6961b4408c7b7184b9c329a95cfa6c6b
 ModelImporter:
   serializedVersion: 26
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coin.001
+    second: {fileID: 2100000, guid: 643cf17bfaef8be4f90073a1ecbb344e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor
+    second: {fileID: 2100000, guid: 64e7acff5820f7845b22e30c130f3a56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs
+    second: {fileID: 2100000, guid: d1d019d202de28c48abbec2dece8f73a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall
+    second: {fileID: 2100000, guid: 6c5ccce2172908c4782767b30625718c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallCoin
+    second: {fileID: 2100000, guid: 90654f0b750a5844facc1907bb340c0e, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
